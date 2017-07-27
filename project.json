@@ -9,20 +9,21 @@
     "renderMode" : 0,
     "engineDir":"frameworks/cocos2d-html5",
 
-    "modules" : ["cocos2d", "socketio", "ccui"],
+    "modules" : ["cocos2d", "socketio", "ccui", "extensions"],
 
     "jsList" : [
         "src/resource.js",
-        "src/Scene/OpenUI/Layer/OpenBackground.js",
-        "src/Scene/OpenUI/Layer/OpenUI.js",
-        "src/Scene/OpenUI/MainOpenUI.js",
-        "src/Scene/RoomUI/Layer/RoomBackground.js",
-        "src/Scene/RoomUI/Layer/RoomUI.js",
-        "src/Scene/RoomUI/MainRoomUI.js",
-        "src/Scene/OpenUI/LoginScene.js",
+
         "src/ServerUtil/SocketUtil.js",
-        "src/Player/Player.js",
-        "src/Scene/UI/PokerUI.js"
+
+        "src/Game/Card.js",
+        "src/Game/CardUI.js",
+
+        "src/Scene/LoginUI/Login.js",
+        "src/Scene/MainUI/MainUI.js",
+        "src/Scene/PlayUI/Play.js",
+        "src/Scene/RoomUI/RoomUI.js"
+
 
 
     ]
