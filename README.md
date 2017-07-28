@@ -5,4 +5,4 @@ A3是朋友提议出做的一个纸牌游戏，在广西地区被称为`'烟3'`�
 
 # 如果你有什么想法或者开发经验，希望您能给我一点建议或意见。
 * QQ：719095750
-* Facebook：[@Carl Lee](https://www.facebook.com/carllee7190?ref=bookmarks)
+* Facebook：[@Carl Lee](https://www.facebook.com/carllee7190)
